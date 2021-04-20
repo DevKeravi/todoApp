@@ -1,0 +1,28 @@
+body {
+	background : pink;
+}
+
+.container {
+	position: absolute;
+	left: 5%;
+	top : 15%;
+}
+.todoHeader {
+	margin-bottom: 30px;
+	font: bold;
+}
+
+
+.todoList {
+	height: 300px;
+	background: white;
+	margin-top: 100px;
+}
+.trash2 {
+	float: right;
+	margin-top: 5px;
+}
+.todoMsg {
+	font-size : 20px;
+}
+
